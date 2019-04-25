@@ -17,8 +17,8 @@
    x="0px"
    id="Layer_1"
    version="1.1"
-   sodipodi:docname="base.svg"
-   inkscape:version="0.92.1 r15371"><sodipodi:namedview
+   sodipodi:docname="gamepad-teal.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -27,20 +27,20 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="2560"
+   inkscape:window-height="1361"
    id="namedview209"
    showgrid="false"
-   inkscape:zoom="0.78811152"
-   inkscape:cx="259.54262"
-   inkscape:cy="261.35957"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:zoom="1.576223"
+   inkscape:cx="561.64945"
+   inkscape:cy="371.15431"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" /><metadata
    id="metadata413"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs411" />
 <pattern
    overflow="visible"
@@ -215,7 +215,7 @@
 		<g
    id="g125">
 			<path
-   style="fill:#cccccc"
+   style="fill:#009090;fill-opacity:1"
    id="path91"
    d="M898.3,515.7c-2.9-15.5-17.7-102.5-32-144.6c-9.4-27.7-13.1-53-17-64.9c-12-35.7-33-65.7-33-65.7     s-9.5-13.1-10.1-16.3c-0.6-3.3-4.7-8.6-4.7-8.6s-17.4-5.7-62.3-5.7s-53.7,5-53.7,5s-2.4,2.9-5.9,4.8c-3.5,1.8-11.7,1.7-11.7,1.7     h-33.4c0,0-0.6-0.1-0.9,0.3c-0.4,0.4-0.6,2-0.6,2H500H366.9c0,0-0.3-1.7-0.6-2c-0.4-0.4-0.9-0.3-0.9-0.3H332     c0,0-8.2,0.2-11.7-1.7c-3.5-1.8-5.9-4.8-5.9-4.8s-8.8-5-53.7-5c-44.8,0-62.3,5.7-62.3,5.7s-4.1,5.3-4.7,8.6     c-0.6,3.3-10.1,16.3-10.1,16.3s-21,30-33,65.7c-4,11.9-7.7,37.2-17,64.9c-14.3,42.1-29.1,129.1-32,144.6     c-4.3,23.2-4.6,90.2-4.6,90.2s4.5,53.4,36.2,74.9s56.7,14,56.7,14s33.1-8.2,57.8-41.9s56.6-129.2,56.6-129.2s2.2-3,5.7-5.3     s6.3-2.6,6.3-2.6l183.7,0.1l183.7-0.1c0,0,2.8,0.3,6.3,2.6s5.7,5.3,5.7,5.3s31.9,95.4,56.6,129.2s57.8,41.9,57.8,41.9     s25,7.5,56.7-14s36.2-74.9,36.2-74.9S902.7,538.9,898.3,515.7z"
    fill="#0D0E13" />
@@ -228,12 +228,12 @@
    fill="#FFFFFF" />
 			</g>
 			<path
-   style="fill:#b3b3b3"
+   style="fill:#009090;fill-opacity:1"
    id="path97"
    d="M448.2,457.1c0-42.2-34.3-76.5-76.5-76.5s-76.5,34.3-76.5,76.5c0,0.7,0,1.3,0.1,2c0,0.7-0.1,1.3-0.1,2     c0,42.2,34.3,76.5,76.5,76.5s76.5-34.3,76.5-76.5c0-0.7,0-1.3-0.1-2C448.1,458.4,448.2,457.7,448.2,457.1z"
    fill="#13161F" />
 			<circle
-   style="fill:#cccccc"
+   style="fill:#00dddd;fill-opacity:0.86666667"
    id="circle99"
    r="73"
    cy="453.1"
@@ -245,12 +245,12 @@
    cy="453.1"
    cx="371.7" />
 			<path
-   style="fill:#b3b3b3"
+   style="fill:#009090;fill-opacity:1"
    id="path103"
    d="M704.8,457.1c0-42.2-34.3-76.5-76.5-76.5s-76.5,34.3-76.5,76.5c0,0.7,0,1.3,0.1,2c0,0.7-0.1,1.3-0.1,2     c0,42.2,34.3,76.5,76.5,76.5s76.5-34.3,76.5-76.5c0-0.7,0-1.3-0.1-2C704.8,458.4,704.8,457.7,704.8,457.1z"
    fill="#13161F" />
 			<circle
-   style="fill:#cccccc"
+   style="fill:#00dddd;fill-opacity:0.86666667"
    id="circle105"
    r="73"
    cy="453.1"
@@ -266,7 +266,7 @@
    d="M631.8,225.1c-0.4-3.2-3.3-5.6-6.5-5.6l0,0H500l0,0H374.7l0,0c-3.2,0-6.1,2.3-6.5,5.6     c-0.1,0.7-0.1,1.4-0.1,2.1v127.4c0,8.9,7.2,16.1,16.1,16.1H500l0,0h115.8c8.9,0,16.1-7.2,16.1-16.1V227.2     C632,226.5,631.9,225.8,631.8,225.1z"
    fill="#121212" />
 			<circle
-   style="fill:#e3e3e3"
+   style="fill:#00dddd;fill-opacity:0.86666667"
    id="circle111"
    r="94.3"
    cy="341.9"
@@ -275,7 +275,7 @@
 			<g
    id="g123">
 				<circle
-   style="fill:#e3e3e3"
+   style="fill:#00dddd;fill-opacity:0.86666667"
    id="circle113"
    r="94.3"
    cy="341.9"
@@ -313,14 +313,14 @@
    id="SVGID_4_">
 		</pattern>
 		<path
-   style="fill:#000000"
+   style="fill:#800080"
    id="path134"
    d="M202.2,641.6c-40.5-2.8-75.8-20.3-87.3-30.5    c-11.5-10.3-17.5-31.6-17.5-31.6c-0.4,15-0.4,26.3-0.4,26.3s4.5,53.4,36.2,74.9s56.7,14,56.7,14s33.1-8.2,57.8-41.9    c4.5-6.2,9.3-14.5,14.1-23.8C261.7,629,242.6,644.3,202.2,641.6z"
    enable-background="new    "
    fill="url(#SVGID_4_)"
    opacity="8.000000e-002" />
 		<path
-   style="fill:#1a1a1a"
+   style="fill:#800080"
    id="path136"
    d="M187,689.6c-12.5,1.8-31.3-2-45.1-7.7c-13.6-5.7-24-16.4-24-16.4    c4.2,5.8,9.3,11.1,15.3,15.2c31.7,21.5,56.7,14,56.7,14s11.7-2.9,26.3-12.3C216.2,682.4,201.6,687.6,187,689.6z"
    enable-background="new    "
@@ -336,14 +336,14 @@
    id="SVGID_5_">
 		</pattern>
 		<path
-   style="fill:#000000"
+   style="fill:#330080;fill-opacity:1"
    id="path143"
    d="M797.8,641.6c40.5-2.8,75.8-20.3,87.3-30.5    s17.5-31.5,17.5-31.5c0.4,15,0.4,26.3,0.4,26.3s-4.5,53.4-36.2,74.9s-56.7,14-56.7,14s-33.1-8.2-57.8-41.9    c-4.5-6.2-9.3-14.5-14.1-23.8C738.3,629,757.4,644.3,797.8,641.6z"
    enable-background="new    "
    fill="url(#SVGID_5_)"
    opacity="8.000000e-002" />
 		<path
-   style="fill:#000000"
+   style="fill:#800080"
    id="path145"
    d="M813,689.6c12.5,1.8,31.3-2,45.1-7.7c13.6-5.7,24-16.4,24-16.4    c-4.2,5.8-9.3,11.1-15.3,15.2c-31.7,21.5-56.7,14-56.7,14s-11.7-2.9-26.3-12.3C783.8,682.4,798.4,687.6,813,689.6z"
    enable-background="new    "
